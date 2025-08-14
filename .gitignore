@@ -1,0 +1,17 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (raw data should not be on GitHub)
+raw/archive/
+
+# IDE-specific files
+.vscode/
+.idea/
