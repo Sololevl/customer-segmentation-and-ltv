@@ -1,4 +1,5 @@
-#E-Commerce Customer Segmentation & LTV Prediction
+# E-Commerce Customer Segmentation & LTV Prediction
+
 This project analyzes the Olist E-commerce dataset to segment customers using RFM analysis, predict their 12-month Customer Lifetime Value (LTV), and provide a tool for data-driven marketing decisions.
 
 * **Source**: [Kaggle - Brazilian E-Commerce Public Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
